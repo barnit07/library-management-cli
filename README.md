@@ -18,3 +18,4 @@ A simple, interactive command-line application for managing a library catalog an
 1. Clone the repository:
    ```bash
    git clone [https://github.com/barnit07/library-management-cli.git](https://github.com/barnit07/library-management-cli.git)
+   ```
